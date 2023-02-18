@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\практика 11_12_2_3\practica11_12_zad2_3\practica11_12_zad2_3\bin\Debug\practica11_12_zad2_3.exe.config
+\\Mac\Home\Desktop\практика 11_12_2_3\practica11_12_zad2_3\practica11_12_zad2_3\bin\Debug\practica11_12_zad2_3.exe
+\\Mac\Home\Desktop\практика 11_12_2_3\practica11_12_zad2_3\practica11_12_zad2_3\bin\Debug\practica11_12_zad2_3.pdb
+\\Mac\Home\Desktop\практика 11_12_2_3\practica11_12_zad2_3\practica11_12_zad2_3\obj\Debug\practica11_12_zad2_3.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\практика 11_12_2_3\practica11_12_zad2_3\practica11_12_zad2_3\obj\Debug\practica11_12_zad2_3.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\практика 11_12_2_3\practica11_12_zad2_3\practica11_12_zad2_3\obj\Debug\practica11_12_zad2_3.Form1.resources
+\\Mac\Home\Desktop\практика 11_12_2_3\practica11_12_zad2_3\practica11_12_zad2_3\obj\Debug\practica11_12_zad2_3.Properties.Resources.resources
+\\Mac\Home\Desktop\практика 11_12_2_3\practica11_12_zad2_3\practica11_12_zad2_3\obj\Debug\practica11_12_zad2_3.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\практика 11_12_2_3\practica11_12_zad2_3\practica11_12_zad2_3\obj\Debug\practica11_12_zad2_3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\практика 11_12_2_3\practica11_12_zad2_3\practica11_12_zad2_3\obj\Debug\practica11_12_zad2_3.exe
+\\Mac\Home\Desktop\практика 11_12_2_3\practica11_12_zad2_3\practica11_12_zad2_3\obj\Debug\practica11_12_zad2_3.pdb
